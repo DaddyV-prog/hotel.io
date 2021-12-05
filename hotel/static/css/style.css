@@ -1,0 +1,148 @@
+#background{
+    width: inherit;
+    height: 1000px;
+    background-color: orangered;
+    color: orangered;
+}
+#container{
+    width: 1000px;
+    height: 900px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 160px;
+}
+header{
+    background-color: whitesmoke;
+    height: 70px;
+    position: absolute;
+    top: 100px;
+    left: 160px;
+    width: 1000px;
+}
+header p#logo{
+    position: absolute;
+    left: 30px;
+}
+header input{
+    border-radius:15%;
+    position: absolute;
+    left: 250px;
+    top: 30px;
+}
+#sidebar{
+    width: 250px;
+    height: 670px;
+    background-color: rgb(27, 27, 27);
+    position: absolute;
+    top: 170px;
+    left: 160PX;
+}
+#hotel1{
+    position: absolute;
+    top: 170px;
+    left: 410px;
+}
+#hotel2{
+    position: absolute;
+    top: 170px;
+    left: 690px;
+}
+#hotel3{
+    position: absolute;
+    top: 170px;
+    left: 910px;
+}
+#rate{
+    width: 750px;
+    height: 70px;
+    background-color: white;
+    position: absolute;
+    top: 370px;
+    left: 410px;
+}
+#rate1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: x-large;
+    text-transform: uppercase;
+    color: rgb(56, 54, 54);
+    position: absolute;
+    top:370px ;
+    left: 420px;
+}
+#container2{
+    width: 750px;
+    height: 400px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 440px;
+    left: 410px;
+}
+#quote1container{
+    width: 450px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 460px;
+    left: 450px;
+}
+#quote1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    color: rgb(73, 72, 72);
+    position: absolute;
+    top: 500px;
+    left: 500px;
+}
+#quote11{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    color: rgb(73, 72, 72);
+    position: absolute;
+    top: 580px;
+    left: 500px;
+}
+#horizontal{
+    height: 1px;
+    width: 380px;
+    background-color: rgb(219, 219, 219);
+    position: absolute;
+    top: 650px;
+    left: 500px;
+}
+#horizontal2{
+    height: 1px;
+    width: 380px;
+    background-color: rgb(219, 219, 219);
+    position: absolute;
+    top: 750px;
+    left: 500px;
+}
+#intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:lighter;
+    font-size: small;
+    position: absolute;
+    top: 790px;
+    left: 500px;
+    color: rgb(126, 122, 122);
+}
+#user1{
+    border-radius: 50%;
+    position: absolute;
+    top: 790px;
+    left: 795px;
+}
+#user2{
+    border-radius: 50%;
+    position: absolute;
+    top: 790px;
+    left: 820px;
+}
+#user3{
+    border-radius: 50%;
+    position: absolute;
+    top: 790px;
+    left: 845px;
+}
